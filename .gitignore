@@ -11,3 +11,5 @@ static/files/
 
 .env
 .env.*
+
+desc.md
